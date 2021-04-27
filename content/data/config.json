@@ -6,7 +6,7 @@
     "base_font": "NeueHaas",
     "header": {
         "title": "Agency",
-        "logo": "images/logo.svg",
+        "logo": "images/logo-dark_bold.svg",
         "logo_alt": "Agency logo",
         "has_nav": true,
         "nav_links": [
