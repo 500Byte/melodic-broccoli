@@ -36,6 +36,7 @@ export default class Body extends React.Component {
                             <meta key={meta_idx + '.1'} {...(attribute(key_name, _.get(meta, 'name', null)))} content={_.get(meta, 'value', null)}/>
                         )
                     })}
+                    <link href="https://diegonavarro.co/fonts/neuehaasdisplay/stylesheet.css" rel="stylesheet"/>
                     {(font !== 'system-sans') && (
                     <link rel="preconnect" href="https://fonts.gstatic.com"/>
                     )}

@@ -3,7 +3,7 @@
     "path_prefix": "/",
     "color_scheme": "light",
     "accent_color": "orange",
-    "base_font": "poppins",
+    "base_font": "NeueHaas",
     "header": {
         "title": "Agency",
         "logo": "images/logo.svg",
